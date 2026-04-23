@@ -32,7 +32,7 @@ The dashboard provides insights into sales performance, profit trends, and regio
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)<img width="1108" height="624" alt="category-analysis" src="https://github.com/user-attachments/assets/a3418fd1-5f15-400f-803c-58fc98784c9e" />
+<img width="1108" height="624" alt="category-analysis" src="https://github.com/user-attachments/assets/a3418fd1-5f15-400f-803c-58fc98784c9e" />
 <img width="1710" height="968" alt="dashboard-overview" src="https://github.com/user-attachments/assets/aaeda408-e0cd-4dc6-a812-66438308005e" />
 
 
